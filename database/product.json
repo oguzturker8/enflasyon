@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Iphone 12",
+    "price": 1000,
+    "image": "https://shiftdelete.net/wp-content/uploads/2020/10/iphone-12-modelleri-icin-ilginc-satis-tahmini-1.jpg",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1604659583,
+        "price": 734
+      },
+      {
+        "date": 1588756418,
+        "price": 803
+      },
+      {
+        "date": 1557134018,
+        "price": 714
+      },
+      {
+        "date": 1570353218,
+        "price": 899
+      },
+      {
+        "date": 1565428418,
+        "price": 1020
+      },
+      {
+        "date": 1518254018,
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "name": "Pizza",
+    "price": 12,
+    "image": "https://www.droetker.com.tr/Recipe/Recipes/droetker.com.tr/tr-tr/baking/image-thumb__25774__RecipeDetailsLightBox/hizli-mayali-pizza.jpg",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1520673218,
+        "price": 11
+      },
+      {
+        "date": 1552209218,
+        "price": 10
+      },
+      {
+        "date": 1523351618,
+        "price": 12
+      },
+      {
+        "date": 1523438018,
+        "price": 13
+      },
+      {
+        "date": 1554887618,
+        "price": 13
+      },
+      {
+        "date": 1523355218,
+        "price": 8
+      }
+    ]
+  },
+  {
+    "name": "Hreat American Hamburger",
+    "price": 24,
+    "image": "https://barbecuebible.com/wp-content/uploads/2013/05/featured-great-american-hamburger-1024x640.jpg",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1581758018,
+        "price": 23
+      },
+      {
+        "date": 1613380418,
+        "price": 22
+      },
+      {
+        "date": 1584263618,
+        "price": 21
+      },
+      {
+        "date": 1581844418,
+        "price": 20
+      },
+      {
+        "date": 1584350018,
+        "price": 20
+      },
+      {
+        "date": 1586942018,
+        "price": 26
+      }
+    ]
+  },
+  {
+    "name": "Samsung 49N5300 49’’",
+    "price": 2200,
+    "image": "https://m.media-amazon.com/images/I/81Qis0axdAL.jpg",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1583399618,
+        "price": 2180
+      },
+      {
+        "date": 1583486018,
+        "price": 2170
+      },
+      {
+        "date": 1586078018,
+        "price": 2000
+      },
+      {
+        "date": 1554455618,
+        "price": 1400
+      },
+      {
+        "date": 1583399618,
+        "price": 2600
+      },
+      {
+        "date": 1583403218,
+        "price": 2000
+      }
+    ]
+  },
+  {
+    "name": "Tesla Model S",
+    "price": 100000,
+    "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/2017-Tesla-Model-S-P100D-white-sedan-Max-Klamus-1001x565-%281%29_1_0.jpg",
+    "category": "Car",
+    "inflation": [
+      {
+        "date": 1568193218,
+        "price": 98000
+      },
+      {
+        "date": 1570785218,
+        "price": 96000
+      },
+      {
+        "date": 1599815618,
+        "price": 95555
+      },
+      {
+        "date": 1568279618,
+        "price": 99900
+      },
+      {
+        "date": 1568366018,
+        "price": 120000
+      },
+      {
+        "date": 1570871618,
+        "price": 87000
+      }
+    ]
+  },
+  {
+    "name": "Nike Air Max 270",
+    "price": 89,
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/skwgyqrbfzhu6uyeh0gg/air-max-270-shoe-8HhX8Z.jpg",
+    "category": "Goods",
+    "inflation": [
+      {
+        "date": 1574846018,
+        "price": 85
+      },
+      {
+        "date": 1577438018,
+        "price": 82
+      },
+      {
+        "date": 1574932418,
+        "price": 80
+      },
+      {
+        "date": 1606468418,
+        "price": 88
+      },
+      {
+        "date": 1580116418,
+        "price": 94
+      },
+      {
+        "date": 1577524418,
+        "price": 76
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch",
+    "price": 240,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-silver-sport-white-nc-s3-1up_GEO_TR?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1594318635000",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1550222018,
+        "price": 535
+      },
+      {
+        "date": 1552641218,
+        "price": 63
+      },
+      {
+        "date": 1550308418,
+        "price": 623
+      },
+      {
+        "date": 1581758018,
+        "price": 83
+      },
+      {
+        "date": 1584263618,
+        "price": 89
+      },
+      {
+        "date": 1581761618,
+        "price": 83
+      }
+    ]
+  },
+  {
+    "name": "Playstation 5",
+    "price": 499,
+    "image": "https://i4.hurimg.com/i/hurriyet/75/750x422/5f28f4430f2544174cc372e3.jpg",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1574846018,
+        "price": 480
+      },
+      {
+        "date": 1577438018,
+        "price": 494
+      },
+      {
+        "date": 1606468418,
+        "price": 476
+      },
+      {
+        "date": 1574932418,
+        "price": 502
+      },
+      {
+        "date": 1580116418,
+        "price": 500
+      },
+      {
+        "date": 1577351618,
+        "price": 480
+      }
+    ]
+  },
+  {
+    "name": "Mercedes a180",
+    "price": 39,
+    "image": "https://ppricecms-prepricecms.azurewebsites.net/uploads/images/kompakt_a-serisi%402x.png",
+    "category": "Car",
+    "inflation": [
+      {
+        "date": 1554286418,
+        "price": 75
+      },
+      {
+        "date": 1551604418,
+        "price": 222
+      },
+      {
+        "date": 1556874818,
+        "price": 74
+      },
+      {
+        "date": 1585905218,
+        "price": 42
+      },
+      {
+        "date": 1554196418,
+        "price": 89
+      },
+      {
+        "date": 1522746818,
+        "price": 26
+      }
+    ]
+  },
+  {
+    "name": "Kebab",
+    "price": 321,
+    "image": "https://www.thespruceeats.com/thmb/Bt2jQh__1rewU79ncql8OkGY0VA=/2059x1544/smart/filters:no_upscale()/aIMG_0756fsq-5aebd1ddc0647100364ee63a.jpg",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1560330818,
+        "price": 212
+      },
+      {
+        "date": 1562922818,
+        "price": 21
+      },
+      {
+        "date": 1557652418,
+        "price": 623
+      },
+      {
+        "date": 1528794818,
+        "price": 442
+      },
+      {
+        "date": 1591953218,
+        "price": 72
+      },
+      {
+        "date": 1560244418,
+        "price": 96
+      }
+    ]
+  },
+  {
+    "name": "Tacos",
+    "price": 12,
+    "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/02/etli-taco-tarifi.jpg",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1564996418,
+        "price": 29
+      },
+      {
+        "date": 1567674818,
+        "price": 454
+      },
+      {
+        "date": 1562318018,
+        "price": 66
+      },
+      {
+        "date": 1596618818,
+        "price": 94
+      },
+      {
+        "date": 1533460418,
+        "price": 89
+      },
+      {
+        "date": 1564910018,
+        "price": 738
+      }
+    ]
+  },
+  {
+    "name": "Monthblanc Sterling Silver Ring",
+    "price": 37,
+    "image": "https://www.rotapsaat.com/images/thumbs/0013206_montblanc-gumus-yuzuk-36180_606.jpeg",
+    "category": "Goods",
+    "inflation": [
+      {
+        "date": 1571562818,
+        "price": 42
+      },
+      {
+        "date": 1574241218,
+        "price": 15
+      },
+      {
+        "date": 1568970818,
+        "price": 834
+      },
+      {
+        "date": 1540026818,
+        "price": 675
+      },
+      {
+        "date": 1603185218,
+        "price": 89
+      },
+      {
+        "date": 1571476418,
+        "price": 85
+      }
+    ]
+  },
+  {
+    "name": "Snake Table lamp",
+    "price": 37,
+    "image": "https://cb2.scene7.com/is/image/CB2/SnakeTableLampSHF19/?$web_zoom$&190430165808&wid=450&hei=450",
+    "category": "Goods",
+    "inflation": [
+      {
+        "date": 1609233218,
+        "price": 53
+      },
+      {
+        "date": 1546074818,
+        "price": 73
+      },
+      {
+        "date": 1577524418,
+        "price": 564
+      },
+      {
+        "date": 1580289218,
+        "price": 72
+      },
+      {
+        "date": 1575018818,
+        "price": 65
+      },
+      {
+        "date": 1577610818,
+        "price": 54
+      }
+    ]
+  },
+  {
+    "name": "Tesla Model 3",
+    "price": 37,
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2019-tesla-model-3-101-1574807022.jpg?crop=0.745xw:0.610xh;0.0208xw,0.387xh&resize=1200:*",
+    "category": "Car",
+    "inflation": [
+      {
+        "date": 1579943618,
+        "price": 1267
+      },
+      {
+        "date": 1548407618,
+        "price": 63
+      },
+      {
+        "date": 1582622018,
+        "price": 623
+      },
+      {
+        "date": 1577265218,
+        "price": 74
+      },
+      {
+        "date": 1580116418,
+        "price": 53
+      },
+      {
+        "date": 1577351618,
+        "price": 73
+      }
+    ]
+  }
+]
